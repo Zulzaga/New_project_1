@@ -1,5 +1,1 @@
-6.824 Lecture 22 Paper Question
-Zulsar Batmunkh
-
-How does the merging of responses via the request distribution tree work?
-What are examples of other tail-tolerant systems employing hedges requests, tied requests and canary requests?
+Hello
